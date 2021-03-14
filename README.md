@@ -1,5 +1,6 @@
 # Reverse-array-in-Python
 Python language
+
 size=int(input("ENTER ARRAY SIZE: "))
 arr=[]
 print("ENTER THE ELEMENTS: ")
